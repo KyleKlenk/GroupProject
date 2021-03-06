@@ -1,6 +1,11 @@
 # 370project
 **IMPROTANT You need at least java version 13.0.2
 
+Contributors:
+ - Alexa Armitage
+ - Erling Lefsrud
+ - Kyle Klenk
+ - Lloyd Clifford
 
 For Mac
  - Easiest way is to download the whole repository and make that your current working directory in a terminal
